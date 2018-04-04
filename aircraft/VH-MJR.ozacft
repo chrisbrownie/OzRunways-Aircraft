@@ -1,0 +1,421 @@
+{
+  "WeightUnits": "lbs",
+  "HoldingTas": "0",
+  "Registration": "VH-MJR",
+  "TaxiBurn": "5",
+  "Code": "BE19",
+  "PlannedTas": "100",
+  "ClimbTas": "80",
+  "ClimbBurn": "36",
+  "DescentRate": "500",
+  "HoverBurn": "0",
+  "FuelCapacity": "220",
+  "GlideTas": "70",
+  "AircraftPerformance": [
+  ],
+  "FuelUnits": "L",
+  "Configs": [
+    {
+      "BEW": "1340",
+      "MomentArmUnits": "in",
+      "EnvelopePoints": [
+        {
+          "Weight": "1800",
+          "Index": "0",
+          "Name": "S1",
+          "Arm": "107.8",
+          "Envelope": "Longitudinal Envelope",
+          "LateralArm": "0"
+        },
+        {
+          "Weight": "0",
+          "Index": "4",
+          "Name": "S5",
+          "Arm": "46",
+          "Envelope": "Lateral Envelope",
+          "LateralArm": "3"
+        },
+        {
+          "Weight": "2250",
+          "Index": "2",
+          "Name": "S3",
+          "Arm": "118.3",
+          "Envelope": "Longitudinal Envelope",
+          "LateralArm": "0"
+        },
+        {
+          "Weight": "0",
+          "Index": "3",
+          "Name": "S4",
+          "Arm": "35",
+          "Envelope": "Lateral Envelope",
+          "LateralArm": "3"
+        },
+        {
+          "Weight": "0",
+          "Index": "2",
+          "Name": "S3",
+          "Arm": "35",
+          "Envelope": "Lateral Envelope",
+          "LateralArm": "-3"
+        },
+        {
+          "Weight": "0",
+          "Index": "5",
+          "Name": "S6",
+          "Arm": "47.3",
+          "Envelope": "Lateral Envelope",
+          "LateralArm": "1.5"
+        },
+        {
+          "Weight": "1340",
+          "Index": "4",
+          "Name": "S5",
+          "Arm": "107.8",
+          "Envelope": "Longitudinal Envelope",
+          "LateralArm": "0"
+        },
+        {
+          "Weight": "0",
+          "Index": "1",
+          "Name": "S2",
+          "Arm": "46",
+          "Envelope": "Lateral Envelope",
+          "LateralArm": "-3"
+        },
+        {
+          "Weight": "0",
+          "Index": "0",
+          "Name": "S1",
+          "Arm": "47.3",
+          "Envelope": "Lateral Envelope",
+          "LateralArm": "-1.5"
+        },
+        {
+          "Weight": "1340",
+          "Index": "3",
+          "Name": "S4",
+          "Arm": "118.3",
+          "Envelope": "Longitudinal Envelope",
+          "LateralArm": "0"
+        },
+        {
+          "Weight": "2250",
+          "Index": "1",
+          "Name": "S2",
+          "Arm": "112.5",
+          "Envelope": "Longitudinal Envelope",
+          "LateralArm": "0"
+        }
+      ],
+      "LateralArm": "0",
+      "Name": "Standard",
+      "MomentArm": "112.5",
+      "Stations": [
+        {
+          "Weight": "10",
+          "Index": "4",
+          "MaxWeight": "0",
+          "Arm": "142",
+          "Name": "Luggage",
+          "LateralArm": "0"
+        },
+        {
+          "Weight": "120",
+          "Index": "5",
+          "MaxWeight": "0",
+          "Arm": "117",
+          "Name": "Left Fuel",
+          "LateralArm": "0"
+        },
+        {
+          "Weight": "60",
+          "Index": "2",
+          "MaxWeight": "0",
+          "Arm": "143",
+          "Name": "Left Rear Seat",
+          "LateralArm": "0"
+        },
+        {
+          "Weight": "200",
+          "Index": "0",
+          "MaxWeight": "0",
+          "Arm": "110",
+          "Name": "Pilot",
+          "LateralArm": "0"
+        },
+        {
+          "Weight": "60",
+          "Index": "3",
+          "MaxWeight": "0",
+          "Arm": "143",
+          "Name": "Right Rear Seat",
+          "LateralArm": "0"
+        },
+        {
+          "Weight": "200",
+          "Index": "1",
+          "MaxWeight": "0",
+          "Arm": "110",
+          "Name": "Copilot",
+          "LateralArm": "0"
+        },
+        {
+          "Weight": "120",
+          "Index": "6",
+          "MaxWeight": "0",
+          "Arm": "117",
+          "Name": "Right Fuel",
+          "LateralArm": "0"
+        }
+      ]
+    },
+    {
+      "BEW": "1340",
+      "MomentArmUnits": "in",
+      "EnvelopePoints": [
+        {
+          "Weight": "0",
+          "Index": "5",
+          "Name": "S6",
+          "Arm": "47.3",
+          "Envelope": "Lateral Envelope",
+          "LateralArm": "1.5"
+        },
+        {
+          "Weight": "1340",
+          "Index": "4",
+          "Name": "S5",
+          "Arm": "107.8",
+          "Envelope": "Longitudinal Envelope",
+          "LateralArm": "0"
+        },
+        {
+          "Weight": "0",
+          "Index": "0",
+          "Name": "S1",
+          "Arm": "47.3",
+          "Envelope": "Lateral Envelope",
+          "LateralArm": "-1.5"
+        },
+        {
+          "Weight": "2030",
+          "Index": "2",
+          "Name": "S3",
+          "Arm": "114",
+          "Envelope": "Longitudinal Envelope",
+          "LateralArm": "0"
+        },
+        {
+          "Weight": "2030",
+          "Index": "1",
+          "Name": "S2",
+          "Arm": "110.5",
+          "Envelope": "Longitudinal Envelope",
+          "LateralArm": "0"
+        },
+        {
+          "Weight": "0",
+          "Index": "2",
+          "Name": "S3",
+          "Arm": "35",
+          "Envelope": "Lateral Envelope",
+          "LateralArm": "-3"
+        },
+        {
+          "Weight": "0",
+          "Index": "3",
+          "Name": "S4",
+          "Arm": "35",
+          "Envelope": "Lateral Envelope",
+          "LateralArm": "3"
+        },
+        {
+          "Weight": "1340",
+          "Index": "3",
+          "Name": "S4",
+          "Arm": "114",
+          "Envelope": "Longitudinal Envelope",
+          "LateralArm": "0"
+        },
+        {
+          "Weight": "0",
+          "Index": "4",
+          "Name": "S5",
+          "Arm": "46",
+          "Envelope": "Lateral Envelope",
+          "LateralArm": "3"
+        },
+        {
+          "Weight": "0",
+          "Index": "1",
+          "Name": "S2",
+          "Arm": "46",
+          "Envelope": "Lateral Envelope",
+          "LateralArm": "-3"
+        },
+        {
+          "Weight": "1800",
+          "Index": "0",
+          "Name": "S1",
+          "Arm": "107.8",
+          "Envelope": "Longitudinal Envelope",
+          "LateralArm": "0"
+        }
+      ],
+      "LateralArm": "0",
+      "Name": "Aerobatic/Utility",
+      "MomentArm": "110.2",
+      "Stations": [
+        {
+          "Weight": "120",
+          "Index": "6",
+          "MaxWeight": "0",
+          "Arm": "117",
+          "Name": "Right Fuel",
+          "LateralArm": "0"
+        },
+        {
+          "Weight": "120",
+          "Index": "5",
+          "MaxWeight": "0",
+          "Arm": "117",
+          "Name": "Left Fuel",
+          "LateralArm": "0"
+        },
+        {
+          "Weight": "0",
+          "Index": "3",
+          "MaxWeight": "0",
+          "Arm": "143",
+          "Name": "Right Rear Seat",
+          "LateralArm": "0"
+        },
+        {
+          "Weight": "0",
+          "Index": "2",
+          "MaxWeight": "0",
+          "Arm": "143",
+          "Name": "Left Rear Seat",
+          "LateralArm": "0"
+        },
+        {
+          "Weight": "200",
+          "Index": "1",
+          "MaxWeight": "0",
+          "Arm": "110",
+          "Name": "Copilot",
+          "LateralArm": "0"
+        },
+        {
+          "Weight": "0",
+          "Index": "4",
+          "MaxWeight": "0",
+          "Arm": "143",
+          "Name": "Luggage",
+          "LateralArm": "0"
+        },
+        {
+          "Weight": "200",
+          "Index": "0",
+          "MaxWeight": "0",
+          "Arm": "110",
+          "Name": "Pilot",
+          "LateralArm": "0"
+        }
+      ]
+    }
+  ],
+  "FuelType": "AvGas",
+  "TasUnits": "kts",
+  "Color": "White",
+  "Manufacturer": "Beechcraft",
+  "WakeCategory": "L",
+  "ServiceCeiling": "14000",
+  "LoadSheets": [
+    {
+      "Entries": [
+        {
+          "Weight": "198",
+          "Index": "0",
+          "Name": "Pilot",
+          "Arm": "110",
+          "LateralArm": "0"
+        },
+        {
+          "Weight": "180",
+          "Index": "1",
+          "Name": "Copilot",
+          "Arm": "110",
+          "LateralArm": "0"
+        },
+        {
+          "Weight": "198",
+          "Index": "2",
+          "Name": "Left Rear Seat",
+          "Arm": "143",
+          "LateralArm": "0"
+        },
+        {
+          "Weight": "180",
+          "Index": "3",
+          "Name": "Right Rear Seat",
+          "Arm": "143",
+          "LateralArm": "0"
+        },
+        {
+          "Weight": "0",
+          "Index": "4",
+          "Name": "Luggage",
+          "Arm": "142",
+          "LateralArm": "0"
+        },
+        {
+          "Weight": "120",
+          "Index": "5",
+          "Name": "Left Fuel",
+          "Arm": "117",
+          "LateralArm": "0"
+        },
+        {
+          "Weight": "120",
+          "Index": "6",
+          "Name": "Right Fuel",
+          "Arm": "117",
+          "LateralArm": "0"
+        }
+      ],
+      "Name": "Standard"
+    }
+  ],
+  "ReserveFuel": "27",
+  "MomentArmUnits": "in",
+  "ClimbRate": "500",
+  "GlideRatio": "1.7",
+  "AWKBurn": "36",
+  "Aircraft_ID": "MJR",
+  "lockedForLimitedEditing": 0,
+  "Remark_Detailed": "",
+  "DescentTas": "110",
+  "FixedReserveTime": "45",
+  "LoiterTas": "0",
+  "Equipment": {
+    "DinghyColor": "",
+    "SafetyEquipment": "BC",
+    "SurveillanceEquipment": "C",
+    "PBN": "",
+    "EmergencyRadio": "",
+    "NumberDinghies": "0",
+    "DinghyCapacity": "0",
+    "EquipmentInformation": "FOV",
+    "DinghiesCovered": "0"
+  },
+  "CruiseBurn": "36",
+  "HeightUnits": "ft",
+  "STS": "",
+  "Engine": "Textron Lycoming O-320-E2B",
+  "Performance": "A",
+  "Type": "Musketeer Sport III",
+  "CruiseTas": "105",
+  "VariableReserveFuel": "0"
+}
