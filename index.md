@@ -6,7 +6,7 @@ Here's my OzRunways `.ozacft` files.
 
 {% for file in site.static_files %}
   {% if file.extname == ".ozacft" %}
- * [{{ file.basename }}]({{site.sitepath}}/{{ site.file.path }}) (Modified: {{ file.modified_time }})
+ * [{{ file.basename }}]({{site.sitepath}}/{{ file.path }}) (Modified: {{ file.modified_time }})
   {% endif %}
 {% endfor %}
 
