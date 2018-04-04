@@ -1,0 +1,277 @@
+{
+  "WeightUnits": "Kg",
+  "HoldingBurn": "36",
+  "HoldingTas": "0",
+  "Registration": "VH-SYH",
+  "TaxiBurn": "36",
+  "Code": "C172",
+  "PlannedTas": "120",
+  "ClimbTas": "80",
+  "ClimbBurn": "36",
+  "DescentRate": "500",
+  "FuelCapacity": "200",
+  "GlideTas": "70",
+  "AircraftPerformance": [
+  ],
+  "FuelUnits": "L",
+  "Configs": [
+    {
+      "BEW": "752",
+      "MomentArmUnits": "in",
+      "EnvelopePoints": [
+        {
+          "Weight": "0",
+          "Index": "1",
+          "Name": "S2",
+          "Arm": "46",
+          "Envelope": "Lateral Envelope",
+          "LateralArm": "-3"
+        },
+        {
+          "Weight": "1111",
+          "Index": "3",
+          "Name": "S4",
+          "Arm": "38.5",
+          "Envelope": "Longitudinal Envelope",
+          "LateralArm": "0"
+        },
+        {
+          "Weight": "0",
+          "Index": "2",
+          "Name": "S3",
+          "Arm": "35",
+          "Envelope": "Lateral Envelope",
+          "LateralArm": "-3"
+        },
+        {
+          "Weight": "0",
+          "Index": "4",
+          "Name": "S5",
+          "Arm": "46",
+          "Envelope": "Lateral Envelope",
+          "LateralArm": "3"
+        },
+        {
+          "Weight": "681.8181818181818",
+          "Index": "1",
+          "Name": "S2",
+          "Arm": "35",
+          "Envelope": "Longitudinal Envelope",
+          "LateralArm": "0"
+        },
+        {
+          "Weight": "0",
+          "Index": "3",
+          "Name": "S4",
+          "Arm": "35",
+          "Envelope": "Lateral Envelope",
+          "LateralArm": "3"
+        },
+        {
+          "Weight": "0",
+          "Index": "0",
+          "Name": "S1",
+          "Arm": "47.3",
+          "Envelope": "Lateral Envelope",
+          "LateralArm": "-1.5"
+        },
+        {
+          "Weight": "0",
+          "Index": "5",
+          "Name": "S6",
+          "Arm": "47.3",
+          "Envelope": "Lateral Envelope",
+          "LateralArm": "1.5"
+        },
+        {
+          "Weight": "681.8181818181818",
+          "Index": "0",
+          "Name": "S1",
+          "Arm": "47.3",
+          "Envelope": "Longitudinal Envelope",
+          "LateralArm": "0"
+        },
+        {
+          "Weight": "0",
+          "Index": "0",
+          "Name": "F1",
+          "Arm": "48",
+          "Envelope": "Fuel Table",
+          "LateralArm": "0"
+        },
+        {
+          "Weight": "109.0909090909091",
+          "Index": "1",
+          "Name": "F2",
+          "Arm": "48",
+          "Envelope": "Fuel Table",
+          "LateralArm": "0"
+        },
+        {
+          "Weight": "886.3636363636364",
+          "Index": "2",
+          "Name": "S3",
+          "Arm": "35",
+          "Envelope": "Longitudinal Envelope",
+          "LateralArm": "0"
+        },
+        {
+          "Weight": "1111",
+          "Index": "4",
+          "Name": "S5",
+          "Arm": "47.3",
+          "Envelope": "Longitudinal Envelope",
+          "LateralArm": "0"
+        }
+      ],
+      "LateralArm": "0",
+      "Name": "New Config",
+      "MomentArm": "39.3",
+      "Stations": [
+        {
+          "Weight": "0",
+          "Index": "3",
+          "MaxWeight": "0",
+          "Arm": "73",
+          "Name": "Right Rear Seat",
+          "LateralArm": "0"
+        },
+        {
+          "Weight": "0",
+          "Index": "4",
+          "MaxWeight": "0",
+          "Arm": "95",
+          "Name": "Luggage",
+          "LateralArm": "0"
+        },
+        {
+          "Weight": "72",
+          "Index": "6",
+          "MaxWeight": "0",
+          "Arm": "48",
+          "Name": "Right Fuel",
+          "LateralArm": "0"
+        },
+        {
+          "Weight": "0",
+          "Index": "1",
+          "MaxWeight": "0",
+          "Arm": "37",
+          "Name": "Copilot",
+          "LateralArm": "0"
+        },
+        {
+          "Weight": "0",
+          "Index": "0",
+          "MaxWeight": "0",
+          "Arm": "37",
+          "Name": "Pilot",
+          "LateralArm": "0"
+        },
+        {
+          "Weight": "72",
+          "Index": "5",
+          "MaxWeight": "0",
+          "Arm": "48",
+          "Name": "Left Fuel",
+          "LateralArm": "0"
+        },
+        {
+          "Weight": "0",
+          "Index": "2",
+          "MaxWeight": "0",
+          "Arm": "73",
+          "Name": "Left Rear Seat",
+          "LateralArm": "0"
+        }
+      ]
+    }
+  ],
+  "FuelType": "AvGas",
+  "TasUnits": "kts",
+  "Color": "White",
+  "Manufacturer": "Cessna",
+  "WakeCategory": "L",
+  "ServiceCeiling": "14200",
+  "LoadSheets": [
+    {
+      "Entries": [
+        {
+          "Weight": "0",
+          "Index": "0",
+          "Name": "Pilot",
+          "Arm": "37",
+          "LateralArm": "0"
+        },
+        {
+          "Weight": "0",
+          "Index": "1",
+          "Name": "Copilot",
+          "Arm": "37",
+          "LateralArm": "0"
+        },
+        {
+          "Weight": "0",
+          "Index": "2",
+          "Name": "Left Rear Seat",
+          "Arm": "73",
+          "LateralArm": "0"
+        },
+        {
+          "Weight": "0",
+          "Index": "3",
+          "Name": "Right Rear Seat",
+          "Arm": "73",
+          "LateralArm": "0"
+        },
+        {
+          "Weight": "0",
+          "Index": "4",
+          "Name": "Luggage",
+          "Arm": "95",
+          "LateralArm": "0"
+        },
+        {
+          "Weight": "72",
+          "Index": "5",
+          "Name": "Left Fuel",
+          "Arm": "48",
+          "LateralArm": "0"
+        },
+        {
+          "Weight": "72",
+          "Index": "6",
+          "Name": "Right Fuel",
+          "Arm": "48",
+          "LateralArm": "0"
+        }
+      ],
+      "Name": "New Config"
+    }
+  ],
+  "ReserveFuel": "27",
+  "MomentArmUnits": "in",
+  "ClimbRate": "500",
+  "GlideRatio": "9",
+  "DescentTas": "110",
+  "LoiterBurn": "36",
+  "LoiterTas": "0",
+  "DescentBurn": "36",
+  "Equipment": {
+    "DinghyColor": "",
+    "SafetyEquipment": "B",
+    "SurveillanceEquipment": "",
+    "PBN": "",
+    "EmergencyRadio": "",
+    "NumberDinghies": "0",
+    "DinghyCapacity": "0",
+    "DinghiesCovered": "0"
+  },
+  "HeightUnits": "ft",
+  "FuelBurn": "36",
+  "Engine": "IO-360",
+  "Performance": "B",
+  "Type": "172",
+  "CruiseTas": "110",
+  "VariableReserveFuel": "15"
+}
