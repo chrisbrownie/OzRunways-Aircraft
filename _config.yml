@@ -3,4 +3,7 @@ description: My OzRunways aircraft (.ozacft) files.
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-architect
+
+# If the site isn't at / on its domain, enter the path here
+sitepath: "OzRunways-Aircraft"
 repo: https://github.com/chrisbrownie/OzRunways-Aircraft
