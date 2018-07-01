@@ -1,0 +1,196 @@
+{
+  "WeightUnits": "Kg",
+  "HoldingTas": "0",
+  "Registration": "VH-PQC",
+  "TaxiBurn": "6",
+  "Code": "C206",
+  "PlannedTas": "100",
+  "ClimbTas": "85",
+  "ClimbBurn": "60",
+  "DescentRate": "500",
+  "HoverBurn": "0",
+  "FuelCapacity": "303",
+  "GlideTas": "75",
+  "AircraftPerformance": [
+  ],
+  "FuelUnits": "L",
+  "Configs": [
+    {
+      "BEW": "896",
+      "MomentArmUnits": "mm",
+      "EnvelopePoints": [
+        {
+          "Weight": "1020",
+          "Index": "4",
+          "Name": "S5",
+          "Arm": "838",
+          "Envelope": "Longitudinal Envelope",
+          "LateralArm": "0"
+        },
+        {
+          "Weight": "1497",
+          "Index": "2",
+          "Name": "S3",
+          "Arm": "1204",
+          "Envelope": "Longitudinal Envelope",
+          "LateralArm": "0"
+        },
+        {
+          "Weight": "850",
+          "Index": "1",
+          "Name": "S2",
+          "Arm": "1204",
+          "Envelope": "Longitudinal Envelope",
+          "LateralArm": "0"
+        },
+        {
+          "Weight": "1497",
+          "Index": "3",
+          "Name": "S4",
+          "Arm": "1032",
+          "Envelope": "Longitudinal Envelope",
+          "LateralArm": "0"
+        },
+        {
+          "Weight": "0",
+          "Index": "2",
+          "Name": "S3",
+          "Arm": "8890",
+          "Envelope": "Lateral Envelope",
+          "LateralArm": "-762"
+        },
+        {
+          "Weight": "850",
+          "Index": "0",
+          "Name": "S1",
+          "Arm": "838",
+          "Envelope": "Longitudinal Envelope",
+          "LateralArm": "0"
+        },
+        {
+          "Weight": "0",
+          "Index": "5",
+          "Name": "S6",
+          "Arm": "12014.2",
+          "Envelope": "Lateral Envelope",
+          "LateralArm": "381"
+        },
+        {
+          "Weight": "0",
+          "Index": "0",
+          "Name": "S1",
+          "Arm": "12014.2",
+          "Envelope": "Lateral Envelope",
+          "LateralArm": "-381"
+        },
+        {
+          "Weight": "0",
+          "Index": "1",
+          "Name": "S2",
+          "Arm": "11684",
+          "Envelope": "Lateral Envelope",
+          "LateralArm": "-762"
+        },
+        {
+          "Weight": "0",
+          "Index": "3",
+          "Name": "S4",
+          "Arm": "8890",
+          "Envelope": "Lateral Envelope",
+          "LateralArm": "762"
+        },
+        {
+          "Weight": "0",
+          "Index": "4",
+          "Name": "S5",
+          "Arm": "11684",
+          "Envelope": "Lateral Envelope",
+          "LateralArm": "762"
+        }
+      ],
+      "LateralArm": "0",
+      "Name": "Normal",
+      "MomentArm": "955",
+      "Stations": [
+        {
+          "Weight": "0",
+          "Index": "4",
+          "MaxWeight": "0",
+          "Arm": "2960",
+          "Name": "Baggage",
+          "LateralArm": "0"
+        },
+        {
+          "Weight": "0",
+          "Index": "2",
+          "MaxWeight": "0",
+          "Arm": "1900",
+          "Name": "Row 2",
+          "LateralArm": "0"
+        },
+        {
+          "Weight": "160",
+          "Index": "1",
+          "MaxWeight": "0",
+          "Arm": "1000",
+          "Name": "Row 1",
+          "LateralArm": "0"
+        },
+        {
+          "Weight": "0",
+          "Index": "3",
+          "MaxWeight": "0",
+          "Arm": "2660",
+          "Name": "Row 3",
+          "LateralArm": "0"
+        },
+        {
+          "Weight": "1",
+          "Index": "5",
+          "MaxWeight": "0",
+          "Arm": "1220",
+          "Name": "Fuel",
+          "LateralArm": "0"
+        }
+      ]
+    }
+  ],
+  "FuelType": "AvGas",
+  "TasUnits": "kts",
+  "Color": "White",
+  "Manufacturer": "Cessna",
+  "WakeCategory": "L",
+  "ServiceCeiling": "27000",
+  "LoadSheets": [
+  ],
+  "ReserveFuel": "45",
+  "MomentArmUnits": "mm",
+  "ClimbRate": "800",
+  "GlideRatio": "1",
+  "AWKBurn": "60",
+  "Aircraft_ID": "PQC",
+  "lockedForLimitedEditing": 0,
+  "Remark_Detailed": "",
+  "DescentTas": "140",
+  "FixedReserveTime": "45",
+  "LoiterTas": "0",
+  "Equipment": {
+    "DinghyColor": "",
+    "SafetyEquipment": "",
+    "SurveillanceEquipment": "C",
+    "PBN": "",
+    "EmergencyRadio": "",
+    "NumberDinghies": "(null)",
+    "DinghyCapacity": "(null)",
+    "EquipmentInformation": "V",
+    "DinghiesCovered": "(null)"
+  },
+  "CruiseBurn": "60",
+  "HeightUnits": "ft",
+  "STS": "",
+  "Engine": "Lycoming IO-520",
+  "Performance": "A",
+  "Type": "U206",
+  "CruiseTas": "130",
+  "VariableReserveFuel": "15"
+}
